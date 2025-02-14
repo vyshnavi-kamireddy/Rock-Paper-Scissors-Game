@@ -2,10 +2,8 @@ body{
     background-color: rgb(25, 25, 25);
     color: white;
     font-family: arial;
-    margin-left: 15px;
 }
 .rps-output{
-    display:inline;
     text-align:center;
 }
 .rps{
@@ -14,9 +12,7 @@ body{
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(255,255,255,0.6);
     height: auto;
-    width: 400px;
-    position: absolute;
-    left: 35%;
+    display: inline-block;
     text-align: start;
     padding:30px 50px 30px 40px;
 }
