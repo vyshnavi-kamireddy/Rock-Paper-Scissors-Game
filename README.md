@@ -70,4 +70,4 @@
 ---
 
 ## 🙌 Thank You!
-👩‍💻 **Developed by:** Vyshnavi Kamireddy ([Vyshnavi-Kamireddy](https://github.com/GantaVenkataKousik), Rock-Paper-Scissors)
+👩‍💻 **Developed by:** Vyshnavi Kamireddy ([Vyshnavi-Kamireddy](https://github.com/vyshnavi-kamireddy), Rock-Paper-Scissors)
